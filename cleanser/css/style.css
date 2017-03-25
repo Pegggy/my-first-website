@@ -1,0 +1,34 @@
+body{
+	font-family: "yahei";
+	color:#333;
+	margin: 1em 10%;
+	background-image: url(../img/bcg.png);
+	background-repeat: repeat-y repeat-x;
+}
+h1{
+	color:#333;
+	background-color: transparent; 
+	text-align: center;
+}
+a{
+	color: #c60;
+	background-color: transparent;
+	font-weight: bold;
+	text-decoration: none;
+}
+ul{
+	padding: 0;
+}
+li{
+	float: left;
+	padding: 1em;
+	list-style: none;
+}
+img{
+	display: block;
+	clear: both;
+	width: 60%;
+	height: 60%;
+    border: 1px  gray;
+    margin: 10px;
+}
